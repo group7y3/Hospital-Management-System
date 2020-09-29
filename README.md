@@ -1,0 +1,2 @@
+# Hospital-Management-System
+The purpose of this project is to digitalize the system of the hospital by in cooperating a database into the system. A database that will store every patient’s record, nurse or doctor’s record and even the medicines that are available in the hospital. The new system will be able to update and create new records and it will wipe the old way of storing records. This will however be able to reduce the space complexity of keeping records (hard copies) of the hospital. 
